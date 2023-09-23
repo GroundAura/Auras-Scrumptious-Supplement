@@ -1,1 +1,1 @@
-# [ProjectName](https://github.com/GroundAura/Project-Template/wiki)
+# [Aura's Scrumptious Supplement](https://github.com/GroundAura/Auras-Scrumptious-Supplement/wiki)

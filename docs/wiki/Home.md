@@ -1,7 +1,7 @@
-# ProjectName
+# Aura's Scrumptious Supplement
 
 ---
 
-Welcome to the ProjectName wiki!
+Welcome to the Aura's Scrumptious Supplement wiki!
 
-ProjectName is a mod for Skyrim Special Edition.
+Aura's Scrumptious Supplement is a mod for Skyrim Special Edition.

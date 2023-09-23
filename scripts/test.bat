@@ -2,5 +2,5 @@
 title test
 cd ".."
 
-robocopy "dist\ProjectName\Base" "C:\Games\Elder Scrolls\V - Skyrim\SMEFT\mods\ProjectName (pre-release) []" /e
+robocopy "dist\Aura's Scrumptious Supplement\Base" "C:\Games\Elder Scrolls\V - Skyrim\SMEFT\mods\BOOBIES - ASS (pre-release) []" /e
 

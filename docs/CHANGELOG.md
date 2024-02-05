@@ -1,5 +1,9 @@
 # Aura's Scrumptious Supplement - Changelog
 
+## Version 1.4.0
+
+- **I4:** Implemented waterskin icons for misc. items.
+
 ## Version 1.3.0
 
 - **Now requires** BOOBIES v2.1.0+ for new icons.

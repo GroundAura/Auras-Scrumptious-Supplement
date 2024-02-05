@@ -1201,6 +1201,17 @@
 		"assign": {
 			"iconColor": "#C1884D"
 		}
+	},
+	{
+		"match": {
+			"formType": "MiscItem",
+			"keywords": [ "OCF_VesselWaterskin" ]
+		},
+		"assign": {
+			"subTypeDisplay": "$ItemMiscEmptyWaterskin",
+			"iconSource": "BOOBIES Immersive Icons/food.swf",
+			"iconLabel": "waterskin_0"
+		}
 	}
 ]
 }
